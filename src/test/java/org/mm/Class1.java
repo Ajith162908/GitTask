@@ -13,6 +13,14 @@ public class Class1 {
 		System.out.println("madurai");
 
 	}
+	private void add() {
+		System.out.println("add");
+
+	}
+	private void add11() {
+		System.out.println("add11");
+
+	}
 	
 
 }
