@@ -13,6 +13,14 @@ public class Class1 {
 		System.out.println("madurai");
 
 	}
+	 private void bodi() {
+		System.out.println("bodi");
+
+	}
+	 private void periyakulam() {
+		System.out.println("periyakulam");
+
+	}
 	
 
 }
